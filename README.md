@@ -5,11 +5,11 @@ A compat records viewer for [ast-metadata-inferer](https://github.com/amilajack/
 
 <img src="screenshot.png" width="500px"/>
 
-## Usage
+## Local Setup
 
 ```bash
-git clone https://github.com/amilajack/compat-viewer
-cd compat-viewer
+git clone https://github.com/amilajack/compat-browser
+cd compat-browser
 yarn
 yarn start
 ```
