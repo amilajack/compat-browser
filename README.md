@@ -14,6 +14,10 @@ yarn
 yarn start
 ```
 
+## Future
+
+Eventually this project will be merged into the [compat-db](https://github.com/amilajack/compat-db) monorepo
+
 ## Related
 
 * [eslint-plugin-compat](https://github.com/amilajack/eslint-plugin-compat)
