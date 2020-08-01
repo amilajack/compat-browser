@@ -16,6 +16,6 @@ export default class HotApp extends React.Component {
   }
 
   render() {
-    return (<HotTable data={this.data} colHeaders={true} rowHeaders={true} />);
+    return (<HotTable licenseKey="non-commercial-and-evaluation" data={this.data} colHeaders={true} rowHeaders={true} />);
   }
 }
