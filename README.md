@@ -1,7 +1,7 @@
 compat-browser
 ==============
 
-A compat records viewer for ast-metadata-inferer
+A compat records viewer for [ast-metadata-inferer](https://github.com/amilajack/ast-metadata-inferer)
 
 <img src="screenshot.png" width="500px"/>
 
