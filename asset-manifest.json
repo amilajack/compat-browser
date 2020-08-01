@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/compat-browser/static/css/main.babdca50.chunk.css",
+    "main.js": "/compat-browser/static/js/main.f8f94048.chunk.js",
+    "main.js.map": "/compat-browser/static/js/main.f8f94048.chunk.js.map",
+    "runtime-main.js": "/compat-browser/static/js/runtime-main.441c3b04.js",
+    "runtime-main.js.map": "/compat-browser/static/js/runtime-main.441c3b04.js.map",
+    "static/css/2.c3d8628e.chunk.css": "/compat-browser/static/css/2.c3d8628e.chunk.css",
+    "static/js/2.fba328d4.chunk.js": "/compat-browser/static/js/2.fba328d4.chunk.js",
+    "static/js/2.fba328d4.chunk.js.map": "/compat-browser/static/js/2.fba328d4.chunk.js.map",
+    "index.html": "/compat-browser/index.html",
+    "precache-manifest.3942d6208b0b35e7431dae9fde1d16a5.js": "/compat-browser/precache-manifest.3942d6208b0b35e7431dae9fde1d16a5.js",
+    "service-worker.js": "/compat-browser/service-worker.js",
+    "static/css/2.c3d8628e.chunk.css.map": "/compat-browser/static/css/2.c3d8628e.chunk.css.map",
+    "static/css/main.babdca50.chunk.css.map": "/compat-browser/static/css/main.babdca50.chunk.css.map",
+    "static/js/2.fba328d4.chunk.js.LICENSE.txt": "/compat-browser/static/js/2.fba328d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.441c3b04.js",
+    "static/css/2.c3d8628e.chunk.css",
+    "static/js/2.fba328d4.chunk.js",
+    "static/css/main.babdca50.chunk.css",
+    "static/js/main.f8f94048.chunk.js"
+  ]
+}
