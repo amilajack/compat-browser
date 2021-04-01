@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://amilajack.github.io/compat-browser",
   "dependencies": {
-    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^10.4.9",
     "@testing-library/user-event": "^12.8.0",
     "ag-grid-community": "^23.2.1",
