@@ -15,7 +15,7 @@
     "react-scripts": "3.4.4",
     "@handsontable/react": "^3.1.3",
     "gh-pages": "^3.2.0",
-    "handsontable": "^7.4.2"
+    "handsontable": "^8.4.0"
   },
   "scripts": {
     "build": "react-scripts build",

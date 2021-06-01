@@ -3754,6 +3754,11 @@ domhandler@^2.3.0:
   dependencies:
     domelementtype "1"
 
+dompurify@^2.1.1:
+  version "2.2.8"
+  resolved "https://registry.yarnpkg.com/dompurify/-/dompurify-2.2.8.tgz#ce88e395f6d00b6dc53f80d6b2a6fdf5446873c6"
+  integrity sha512-9H0UL59EkDLgY3dUFjLV6IEUaHm5qp3mxSqWw7Yyx4Zhk2Jn2cmLe+CNPP3xy13zl8Bqg+0NehQzkdMoVhGRww==
+
 domutils@1.5.1:
   version "1.5.1"
   resolved "https://registry.yarnpkg.com/domutils/-/domutils-1.5.1.tgz#dcd8488a26f563d61079e48c9f7b7e32373682cf"
@@ -4894,14 +4899,15 @@ handle-thing@^2.0.0:
   resolved "https://registry.yarnpkg.com/handle-thing/-/handle-thing-2.0.0.tgz#0e039695ff50c93fc288557d696f3c1dc6776754"
   integrity sha512-d4sze1JNC454Wdo2fkuyzCr6aHcbL6PGGuFAz0Li/NcOm1tCHGnWDRmJP85dh9IhQErTc2svWFEX5xHIOo//kQ==
 
-handsontable@^7.4.2:
-  version "7.4.2"
-  resolved "https://registry.yarnpkg.com/handsontable/-/handsontable-7.4.2.tgz#11097b17c36e5dffd9f54febdd904c3006c4f28e"
-  integrity sha512-xJ81nZfXWHmS+K8/Eshj776MQSe8003iue1hHumgb0bnJmG/WLOxRpN+Vurdl/WPwI3+fQOqb9nTzmM5n/LI2g==
+handsontable@^8.4.0:
+  version "8.4.0"
+  resolved "https://registry.yarnpkg.com/handsontable/-/handsontable-8.4.0.tgz#2798ba96b443fd2d55df6de741abca496d97ff35"
+  integrity sha512-bMbvjjSUy0s/o0cJQslA4lWOabqna+k4+ScKWjytvx8TF76gBOOQrkYtqQxWccRfKF8fwk2gG1VYYnSRnq6fqg==
   dependencies:
     "@types/pikaday" "1.7.4"
     core-js "^3.0.0"
-    hot-formula-parser "^3.0.1"
+    dompurify "^2.1.1"
+    hot-formula-parser "^4.0.0"
     moment "2.24.0"
     numbro "2.1.2"
     pikaday "1.8.0"
@@ -5024,10 +5030,10 @@ hosted-git-info@^2.1.4:
   resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.8.tgz#7539bd4bc1e0e0a895815a2e0262420b12858488"
   integrity sha512-f/wzC2QaWBs7t9IYqB4T3sR1xviIViXJRJTWBlx2Gf3g0Xi5vI7Yy4koXQ1c9OYDGHN9sBy1DQ2AB8fqZBWhUg==
 
-hot-formula-parser@^3.0.1:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/hot-formula-parser/-/hot-formula-parser-3.0.2.tgz#d71f03a4ef43ba3074bde383a0e36202b5b64116"
-  integrity sha512-W/Dj/UbIyuViMIQOQD6tUEVySl7jd6ei+gfWslTiRqa4yRhkyHnIz8N4oLnqgDRhhVAQIcFF5NfNz49k4X8IxQ==
+hot-formula-parser@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/hot-formula-parser/-/hot-formula-parser-4.0.0.tgz#b406bdc7ed30d855b7bcbe01d9dc2ee954c28e56"
+  integrity sha512-diG1UvuQ3HxtfezVUIpvndk/bVkqZJ9Rfv10MdVF7pJEj8P2Jd4iCZSMJCN3lDhnLegaVlfSYSA6+szYNFQUKg==
   dependencies:
     "@handsontable/formulajs" "^2.0.2"
     tiny-emitter "^2.1.0"
