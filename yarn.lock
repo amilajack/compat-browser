@@ -1053,10 +1053,10 @@
     bessel "^1.0.2"
     jstat "^1.9.2"
 
-"@handsontable/react@^3.1.3":
-  version "3.1.3"
-  resolved "https://registry.yarnpkg.com/@handsontable/react/-/react-3.1.3.tgz#382ff655c17469bd587010e50281f0f47c3c0e79"
-  integrity sha512-XuLP0rmpkXAi55kmw1YtK1Icn2gtkHe0xT99inNgLiGGFMnv3ll1Y8NCfwHqSp0EMnpwpbO6wbN+ZBE/huwPwA==
+"@handsontable/react@^10.0.0":
+  version "10.0.0"
+  resolved "https://registry.yarnpkg.com/@handsontable/react/-/react-10.0.0.tgz#07ecdcd65692cbe05e8c14e53c5ce40615d5f725"
+  integrity sha512-4qVLD0wSh0diUqVubt+xw7uNGup6P71vf9gfujOVq+lWpb3Vu6p22Db5urFcsMJKD1WsdAgX3BK+ubRtdjQjIA==
 
 "@hapi/address@2.x.x":
   version "2.1.4"
